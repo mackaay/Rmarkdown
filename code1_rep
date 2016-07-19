@@ -25,3 +25,12 @@ You can make an ordered list by placing each item on a new line after a number f
 2. item 2
 3. item 3
 In each case, you need to place a blank line between the list and any paragraphs that come before it.
+
+
+
+You can also use the Markdown syntax to embed latex math equations into your reports. To embed an equation in its own centered equation block, surround the equation with two pairs of dollar signs like this,
+
+$$1 + 1 = 2$$
+To embed an equation inline, surround it with a single pair of dollar signs, like this: $1 + 1 = 2$.
+
+You can use all of the standard latex math symbols to create attractive equations.
