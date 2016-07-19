@@ -12,3 +12,16 @@ To create titles and headers, use leading hastags. The number of hashtags determ
 ## Second level header
 ### Third level header
 
+
+
+To make a bulleted list in Markdown, place each item on a new line after an asterisk and a space, like this:
+
+* item 1
+* item 2
+* item 3
+You can make an ordered list by placing each item on a new line after a number followed by a period followed by a space, like this
+
+1. item 1
+2. item 2
+3. item 3
+In each case, you need to place a blank line between the list and any paragraphs that come before it.
